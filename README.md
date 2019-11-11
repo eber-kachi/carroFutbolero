@@ -1,4 +1,4 @@
-# carro Futbolero
+# Carro Futbolero
 
 Es un proyecto de carros que se controlan por bluetooth
 
